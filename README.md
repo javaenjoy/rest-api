@@ -12,5 +12,5 @@
 프로젝트
 
 1. Rest Api 서버 : user_demo
-2. 
-3. Rest Api 클라이언트 : user_demo_client
+
+2. Rest Api 클라이언트 : user_demo_client
