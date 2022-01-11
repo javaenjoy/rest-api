@@ -8,8 +8,7 @@ rest api에 대한 예제입니다. <br><br>
 
 1. REST API 에서 검색 필터링 : https://stackoverflow.com/questions/5020704/how-to-design-restful-search-filtering
 
-2. https://sharplee7.tistory.com/49
-
+2. https://sharplee7.tistory.com/49 <br><br>
 
 
 
